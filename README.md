@@ -7,7 +7,7 @@ A **2D Snake Game** built entirely in **Java (Swing + AWT)**.
 Includes multiple levels, visual themes, and dynamic bonus animations.  
 Developed with clean OOP structure and modular design by **[Khaled Kadri](https://www.linkedin.com/in/khaled-kadri/)**.
 
-![Screenshot of the game](snake.png)
+<img src="snake.png" alt="Screenshot of the game" width="600"/>
 
 ---
 
