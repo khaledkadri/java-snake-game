@@ -1,5 +1,5 @@
 # java-snake-game
-A 2D Snake Game built with Java and Swing, featuring multiple levels, custom UI, and dynamic bonus system. Developed by Khaled Kadri — Licensed under CC BY-NC.
+A 2D Snake Game built with Java and Swing, featuring multiple levels, custom UI, and dynamic bonus system. Developed by Khaled Kadri.
 
 # 🐍 Snake Game — Java Swing Edition
 
@@ -24,12 +24,20 @@ Developed with clean OOP structure and modular design by **[Khaled Kadri](https:
 
 ---
 
+## 🖥️ Implementation Details
+
+- **Animations:** Handled with **Java threads**, allowing smooth, concurrent updates for the snake, bonus items, and grid elements without freezing the UI.  
+- **Custom Logic & Interface:** Entire game logic, UI, and animations were **designed and implemented from scratch**. No external 2D graphics library was used — everything is done using **Java Swing, AWT, and Graphics2D**.  
+- **Object-Oriented Design:** Game components like Snake, Apple, Board, and Score are modular classes with clear responsibilities.  
+- **Thread Safety:** Threads are carefully managed to update game state and repaint the GUI asynchronously.
+
+---
+
 ## Technologies Used
 
 - **Language:** Java  
 - **UI Toolkit:** Swing / AWT  
 - **Graphics:** BufferedImage, Graphics2D, AffineTransform  
-- **Structure:** Object-Oriented Design  
-- **Version Control:** Git / GitHub  
+- **Structure:** Object-Oriented Design 
 
-
+---
