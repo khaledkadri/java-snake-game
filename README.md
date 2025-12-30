@@ -13,14 +13,14 @@ Developed with clean OOP structure and modular design by **[Khaled Kadri](https:
 
 ## Features
 
-✅ Classic Snake gameplay  
-✅ Multiple game modes: *Classic, Box, Tunnel, Transit, Mill*  
-✅ Bonus system with pulsating apples and time-limited rewards  
-✅ Real-time scoring and smooth animations  
-✅ Customizable grid and dark mode  
-✅ Gradient progress bar and dynamic UI elements  
-✅ Keyboard control support (arrow keys)  
-✅ Built with pure Java (no external frameworks)
+- Classic Snake gameplay  
+- Multiple game modes: *Classic, Box, Tunnel, Transit, Mill*  
+- Bonus system with pulsating apples and time-limited rewards  
+- Real-time scoring and smooth animations  
+- Customizable grid and dark mode  
+- Gradient progress bar and dynamic UI elements  
+- Keyboard control support (arrow keys)  
+- Built with pure Java (no external frameworks)
 
 ---
 
