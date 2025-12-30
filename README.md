@@ -11,7 +11,7 @@ Developed with clean OOP structure and modular design by **[Khaled Kadri](https:
 
 ---
 
-## 🎮 Features
+## Features
 
 ✅ Classic Snake gameplay  
 ✅ Multiple game modes: *Classic, Box, Tunnel, Transit, Mill*  
@@ -24,7 +24,7 @@ Developed with clean OOP structure and modular design by **[Khaled Kadri](https:
 
 ---
 
-## 🖥️ Implementation Details
+## Implementation Details
 
 - **Animations:** Handled with **Java threads**, allowing smooth, concurrent updates for the snake, bonus items, and grid elements without freezing the UI.  
 - **Custom Logic & Interface:** Entire game logic, UI, and animations were **designed and implemented from scratch**. No external 2D graphics library was used — everything is done using **Java Swing, AWT, and Graphics2D**.  
