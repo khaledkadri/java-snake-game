@@ -2,15 +2,9 @@
  * Author : KHALED KADRI   
 
  * LinkedIn : https://www.linkedin.com/in/khaled-kadri/
- * License: Creative Commons - Attribution-NonCommercial (CC BY-NC)
+ * License: Apache License 2.0
  * Copyright © 2013 KHALED KADRI. All rights reserved.
  *
- * This work is licensed under the Creative Commons - Attribution-NonCommercial License.
- * You may not use this work for commercial purposes. 
- * You are free to share and adapt the material as long as proper attribution is given.
- * Attribution must include the original author: "KHALED KADRI".
- */
-
 /*
  * The Graphic class is a custom Swing component (JPanel) responsible for rendering and managing 2D graphics in a Java-based game environment.
 It handles the real-time drawing of game elements such as the player’s shape (snake or object), obstacles, items (e.g., apples or bonuses), and background scenes.
@@ -550,4 +544,5 @@ public class Graphic extends JPanel{
 	
 
 }
+
 
