@@ -6,7 +6,7 @@
  * Provides basic getter and setter methods to manipulate positions dynamically.
  *
  * Author: Khaled Kadri
- * License: Creative Commons - Attribution-NonCommercial (CC BY-NC)
+ * License: Apache License 2.0
  */
 
 
@@ -39,3 +39,4 @@ public class Point {
 		this.posy = y;
 	}
 }
+
