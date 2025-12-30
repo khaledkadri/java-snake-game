@@ -11,7 +11,7 @@
  * - Fenetre: The main game window managing the game loop and controls.
  *
  * Author: Khaled Kadri
- * License: Creative Commons - Attribution-NonCommercial (CC BY-NC)
+ * License: Apache License 2.0
  */
 
 
@@ -41,3 +41,4 @@ public class Collision extends Exception{
 	}
 
 }
+
